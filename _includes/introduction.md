@@ -1,5 +1,5 @@
-# Digital Services Playbook
+# Entrepreneur's Playbook
 
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we can make the delivery of our policy and programs more effective.   
+Entrepreneurship is the process by which people take risk to grow a business, but it is also a way in which individuals can create wealth and a work lifestyle that is productive, healthy and impactful. As a business grows, it's impact grows too, influencing wealth creation, environmental resources, culture, policy and the community where it is located. A organization is a significant means for change, and whether that change is positive or negative largely depends on who is leading the business.
 
-Today, too many of our digital services projects do not work well, are delivered late, or are over budget. To increase the success rate of these projects, the U.S. Government needs a new approach. We created a playbook of 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
+For diverse entrepreneurs in a risk-averse market, too much emphasis is put on the 'mystery' and 'magic' of entrepreneurship. In truth, entrepreneurial success is a combination of good practice, good preparation and good luck. We want to increase the success rate of entrepreneurs in every industry, and created this playbook of 14 key "plays" drawn from successful practices from business consultants, advisors and coaches from Milwaukee, WI. We have seen these practices work, and with a little effort we know they can work for you, too.
